@@ -18,5 +18,5 @@
 4. Click on add rule
 5. Type port range eg"8080"
 
-# Check if jenkins instance is accessible on your browser
+### Check if jenkins instance is accessible on your browser
 'https://IPaddress:port number'
