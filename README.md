@@ -20,3 +20,16 @@
 
 ### Check if jenkins instance is accessible on your browser
 'https://IPaddress:port number'
+
+## Using Docker with Jenkins
+
+1. Install Docker on thesame EC2 instance.
+2. Grant access to Jenkins
+
+### Install Docker Pipeline plugin in Jenkins
+
+1. log in to Jenkins (through your browser)
+2. Go to Manage Jenkins > Manage Plugins
+3. In the Availability tab, search for Docker Pipeline
+4. Select the plugin and click the Install button
+5. Restart Jenkins after the plugin is installed.
